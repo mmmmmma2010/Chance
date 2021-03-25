@@ -1,0 +1,329 @@
+﻿@model Give_Pro.Models.Jobs
+
+@{
+
+    ViewBag.Title = "التعديل";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2 style="margin:0 50px 50px 0px">التعديل</h2>
+
+@using (Html.BeginForm("Edit", "Jobs", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <div class="alert alert-danger" id="error-div" style="display:none">
+            <span id="View-err">
+
+            </span>
+        </div>
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+        @Html.HiddenFor(model => model.JobImage)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.JobName, htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.JobName, new { htmlAttributes = new { @class = "form-control", @style = "margin-bottom:20px" } })
+                @Html.ValidationMessageFor(model => model.JobName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CategoryID, "نوع الوظيفه", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("CategoryID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.CategoryID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CompanyName, htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CompanyName, new { htmlAttributes = new { @class = "form-control", @style = "margin-bottom:20px" } })
+                @Html.ValidationMessageFor(model => model.CompanyName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CompanyActivityID, "نشاط الشركه", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("CompanyActivityID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.CompanyActivityID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CountriesID, "الدولة", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+
+                @Html.DropDownListFor(m => m.CountriesID, ViewBag.CountriesID as SelectList, "-- برجاء اختيار الدولة --", new { @class = "form-control", @style = "margin-bottom:20px" })
+
+                @Html.ValidationMessageFor(model => model.CountriesID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GovernoratesID, "المحافظه", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.GovernoratesID, new SelectList(""), "-- برجاء اختيار المحافظه --", new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.GovernoratesID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CitiesID, "المدينة", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.CitiesID, new SelectList(""), "-- برجاء اختيار المدينة --", new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.CitiesID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AddressDetails, htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.AddressDetails, new { htmlAttributes = new { @class = "form-control", @style = "margin-bottom:20px" } })
+                @Html.ValidationMessageFor(model => model.AddressDetails, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.DatePublication, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DatePublication, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DatePublication, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RequiredWorkersID, "العماله المطلوبه", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("RequiredWorkersID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.RequiredWorkersID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.YearsExperienceID, "سنوات الخبره", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("YearsExperienceID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.YearsExperienceID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AgeID, "السن المطلوب", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("AgeID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.AgeID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GenderID, "النوع المطلوب", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("GenderID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.GenderID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DrivingLicenseID, "رخصة القياده", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("DrivingLicenseID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.DrivingLicenseID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EducationLevelID, "المؤهل التعليمي", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("EducationLevelID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.EducationLevelID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LevelEnglishID, "اللغه الأنجليزيه", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("LevelEnglishID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.LevelEnglishID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LevelComputerID, "الحاسب الآلي", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("LevelComputerID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.LevelComputerID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LevelOfficeID, "مايكروسوفت أوفيس", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("LevelOfficeID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.LevelOfficeID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LevelArmyID, "الموقف من التجنيد", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("LevelArmyID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.LevelArmyID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.OtherTerms, htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.OtherTerms, new { htmlAttributes = new { @class = "form-control", @style = "margin-bottom:20px" } })
+                @Html.ValidationMessageFor(model => model.OtherTerms, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.MonthlySalaryID, "الراتب الأساسي", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("MonthlySalaryID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.MonthlySalaryID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.WatchPrice, htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.WatchPrice, new { htmlAttributes = new { @class = "form-control", @style = "margin-bottom:20px" } })
+                @Html.ValidationMessageFor(model => model.WatchPrice, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AlwaysID, "نوع الدوام", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("AlwaysID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.AlwaysID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TimesworkID, "مواعيد العمل", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("TimesworkID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.TimesworkID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.WorkHoursID, "ساعات العمل", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("WorkHoursID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.WorkHoursID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.WeekendID, "الإجازات", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("WeekendID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.WeekendID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AdvantagesWorkID, "مميزات الوظيفه", htmlAttributes: new { @class = "control-label col-md-2", @style = "padding-top:15px; text-align:right" })
+            <div class="col-md-10">
+                @Html.DropDownList("AdvantagesWorkID", null, htmlAttributes: new { @class = "form-control", @style = "margin-bottom:20px" })
+                @Html.ValidationMessageFor(model => model.AdvantagesWorkID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.JobImage, htmlAttributes: new { @class = "control-label col-md-2", @style = " text-align:right" })
+            <div class="col-md-10">
+                <input type="file" name="upload" id="myImage" />
+                @Html.ValidationMessageFor(model => model.JobImage, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="تعديل" class="btn btn-primary" id="save"style="margin:50px 0 50px 0px" />
+            </div>
+        </div>
+    </div>
+}
+
+<div class="row" style="width:100% ;height:75%">
+    <a href="#" style="color:white">.</a>
+</div>
+
+
+@section scripts{
+
+    <script>
+        $(function () {
+            $("#Save").click(function () {
+
+                if ($("#myImage").val() != "") {
+                    /* نحقق من ان اتمداد الصورة انه سليم */
+                    var filename = document.getElementById("myImage").value; // جلب امتداد الصورة كامل //
+                    var extensionImg = filename.substr(filename.lastIndexOf('.') + 1); //تقطيع الامتداد من عند النقطه بدون النقطه
+                    var validExtensions = ['jpg', 'png', 'gif', 'bmp'];
+                    if ($.inArray(extensionImg, validExtensions) == -1) {
+                        $("#error-div").fadeIn();
+                        $("#View-err").append("رجاء قم بـ أختيار صورة بـ امتداد صحيح ");
+                        return false;
+                    }
+                    /* التحكم ف حجم الصورة لا يزيد (2ميجا) فقط لا غير */
+                    var myFileSize = document.getElementById("myImage").files[0].size / 1024 / 1024; // جلب حجم الصورة ب المجيا بايت //
+                    if (myFileSize > 2) {
+                        $("#error-div").fadeIn();
+                        $("#View-err").append("رجاء قم بـ إختيار صورة حجمها أقل من 2 ميجا بايت ");
+                        return false;
+                    }
+                }
+            });
+        });
+    </script>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script>
+            $(document).ready(function () {
+                $("#CountriesID").change(function () {
+                    var countryId = $(this).val();
+                    debugger
+                    $.ajax({
+                        type: "post",
+                        url: "/Jobs/GetGovernorates?id=" + countryId,
+                        contentType: "html",
+                        success: function (response) {
+                            debugger
+                            $("#GovernoratesID").empty();
+                            $("#GovernoratesID").append(response);
+                        }
+                    });
+                });
+                $("#GovernoratesID").change(function () {
+                    var cityId = $(this).val();
+                    debugger
+                    $.ajax({
+                        type: "post",
+                        url: "/Jobs/GetCities?id=" + cityId,
+                        contentType: "html",
+                        success: function (response) {
+                            debugger
+                            $("#CitiesID").empty();
+                            $("#CitiesID").append(response);
+                        }
+                    });
+                });
+            });
+    </script>
+
+}

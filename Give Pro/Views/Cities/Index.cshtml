@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Give_Pro.Models.Cities>
+
+@{
+    ViewBag.Title = "قائمة المدن";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>قائمة المدن</h2>
+
+<p>
+    @Html.ActionLink("إنشاء جديد", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Governorates.GovernoratesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CitiesName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Governorates.GovernoratesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CitiesName)
+        </td>
+        <td>
+            @Html.ActionLink("تعديل", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("تفاصيل", "Details", new { id = item.Id }) |
+            @Html.ActionLink("حذف", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,252 @@
+﻿@model Give_Pro.Models.Jobs
+
+@{
+    ViewBag.Title = "الحذف";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>الحذف</h2>
+
+<h3>
+    هل أنت متأكد من تنفيذ عمليه الحذف ؟
+</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AdvantagesWork.AdvantagesWorkName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdvantagesWork.AdvantagesWorkName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age.AgeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age.AgeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Always.ContinuityName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Always.ContinuityName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cities.CitiesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cities.CitiesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyActivity.CompanyActivityName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompanyActivity.CompanyActivityName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Countries.CountriesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Countries.CountriesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DrivingLicense.DrivingLicenseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DrivingLicense.DrivingLicenseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EducationLevel.EducationLevelName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EducationLevel.EducationLevelName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender.GenderName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gender.GenderName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Governorates.GovernoratesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Governorates.GovernoratesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LevelArmy.LevelArmyName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LevelArmy.LevelArmyName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LevelComputer.LevelComputerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LevelComputer.LevelComputerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LevelEnglishI.LevelEnglishName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LevelEnglishI.LevelEnglishName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LevelOffice.LevelOfficeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LevelOffice.LevelOfficeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MonthlySalary.MonthlySalaryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MonthlySalary.MonthlySalaryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RequiredWorkers.RequiredWorkersName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RequiredWorkers.RequiredWorkersName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Timeswork.TimesworkName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Timeswork.TimesworkName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Weekend.WeekendName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Weekend.WeekendName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WorkHours.WorkHoursName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WorkHours.WorkHoursName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.YearsExperience.YearsExperienceName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.YearsExperience.YearsExperienceName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompanyName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressDetails)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressDetails)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatePublication)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatePublication)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OtherTerms)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OtherTerms)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WatchPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WatchPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobImage)
+        </dt>
+
+        <dd>
+            <img src="~/Uploads/@Html.DisplayFor(Model=> Model.JobImage)"
+                 class="thumbnail"
+                 style="width:48px;height:48px;" />
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="حذف" class="btn btn-danger" /> |
+            @Html.ActionLink("العوده إلي القائمه", "Index")
+        </div>
+    }
+</div>

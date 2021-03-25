@@ -1,0 +1,11 @@
+﻿@model Give_Pro.Models.Cities
+<option value="">-- اختر المدينة --</option>
+@if (ViewBag.CitiesLists != null)
+{
+    foreach (var item in ViewBag.CitiesLists)
+    {
+        <option value="@item.Value">@item.Text</option>
+    }
+}
+
+

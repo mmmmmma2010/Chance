@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Give_Pro.Models.LevelOffice>
+
+@{
+    ViewBag.Title = "قائمة مايكروسوفت أوفيس";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>قائمة مايكروسوفت أوفيس</h2>
+
+
+<p>
+    @Html.ActionLink("إنشاء جديد", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LevelOfficeName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LevelOfficeName)
+        </td>
+        <td>
+            @Html.ActionLink("تعديل", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("تفاصيل", "Details", new { id = item.Id }) |
+            @Html.ActionLink("حذف", "Delete", new { id = item.Id })
+        </td>
+
+    </tr>
+    }
+
+</table>

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Give_Pro.Models.Jobs>
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+
+    <div class="panel panel-info" style="padding:15px;">
+
+        <div class="panel-heading"><h1>نتائج البحث</h1></div>
+
+        <div class="row panel-body" style="margin-top:100px">
+
+            @foreach (var subItem in Model)
+            {
+
+                <div class="col-md-3 badge-secondary border-primary" style="margin:20px ; padding:20px ;min-height:450px; text-align:center;">
+
+                    <img src="~/Uploads/@subItem.JobImage" />
+
+                    <h3 style="margin-top:20px">@Html.DisplayFor(modelItem => subItem.JobName)</h3>
+
+                    <h5><h4>سنوات الخبرة:</h4>@subItem.YearsExperience.YearsExperienceName </h5>
+                   
+                     <h5><h4>الدوام:</h4>@subItem.Always.ContinuityName </h5>
+                    
+                    <h5><h4>نشاط الشركة:</h4>@subItem.CompanyActivity.CompanyActivityName</h5>      
+                    <br />
+                    @if (ViewBag.userType == "الناشرون")
+                    {
+                        if (subItem.UserID == ViewBag.CurrentUser)
+                        {
+                            @Html.ActionLink("التفاصيل", "../Jobs/Details", new { Id = subItem.Id }, new { @class = "btn btn-success" })
+                        }
+                    }
+                    else
+                    {
+                        @Html.ActionLink("التفاصيل", "../Home/Details", new { JobId = subItem.Id }, new { @class = "btn btn-success" })
+                    }
+
+
+
+
+                </div>
+            }
+
+        </div>
+    </div>
+
+
+

@@ -1,0 +1,666 @@
+﻿<!-- لـ التعامل مع جدول الأصناف -->
+
+@model IEnumerable<Give_Pro.Models.Category>
+
+@{
+    ViewBag.Title = "الصفحة الرئيسية";
+}
+
+<!--جزء الصورة والبحث-->
+<div class="site-blocks-cover overlay" style="background-image: url('../Content/images/hero_1.jpg');" data-aos="fade" data-stellar-background-ratio="0.5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-12" data-aos="fade">
+
+                <h1 style="text-align:center;">
+                    عايز شغل بجد؟
+                </h1>
+                <p style="text-align:center;">
+                    أطمن !! موقع أعطني فرصه هو طريقك للشغل في أكبر شركات مصرمهما كانت مهاراتك أو خبراتك أو مستوى تعليمك
+                </p>
+
+                <form action="#">
+                    <div class="row mb-3">
+                        <div class="col-md-9">
+
+                            <div class="row">
+
+
+                                @*@using (Html.BeginForm("Search", "Home", FormMethod.Post))
+                                {*@
+                                    <input type="text" class="mr-3 form-control border-0 px-4" 
+                                           @*name="SearchName"*@
+                                           placeholder="مثال : مندوب مبيعات / مبرمج ASP.NET "
+                                           id="SearchName">
+                                @*}*@
+
+                            </div>
+
+                        </div>
+                        <div class="col-md-3" >
+                            <span style="">   @Html.ActionLink("بحث", "../Home/Search", new { SearchName = "xxx" }, new { @class = "btn btn-search btn-primary btn-block link", @style="padding-top:15px"})</span> 
+                          @*<input type="submit" class="btn btn-search btn-primary btn-block" value="Search">*@
+                        </div>
+
+                    </div>
+                    @section scripts{
+                    <script>
+                          $(function () {
+                            $('.link').click(function () {
+                                var ipvalue = $("#SearchName").val();
+                              this.href = this.href.replace("xxx", ipvalue);
+                            });
+                          });
+                    </script>
+                        }
+                    <!--تاريخ البحث-->
+                    <div class="row" style="text-align: right">
+                        <div class="col-md-12">
+                            <p class="small">
+                                أكثر من 7500 وظيفة إلي الآن  تم البحث عنها هنا :
+
+                                <a href="#" class="category">موظف إستقبال</a>
+                                <a href="#" class="category">سكرتاريه</a>
+                                <a href="#" class="category">سكرتيرات لإدارة العليا</a>
+                                <a href="#" class="category">مدير فرع ( محل حلويات )</a>
+                                <a href="#" class="category">مدير فندق</a>
+                                <a href="#" class="category">مدير فرع أدويه</a>
+                                <a href="#" class="category">محاسب</a>
+                                <br />
+                                <a href="#" class="category">مراجع لغوي</a>
+                                <a href="#" class="category">أخصائي تدريب</a>
+                                <a href="#" class="category">مسؤل عمليات شحن</a>
+                                <a href="#" class="category">مبرمج C#</a>
+                                <a href="#" class="category">مصمم مواقع</a>
+                                <a href="#" class="category">مطور مواقع</a>
+                                <a href="#" class="category">مبرمج أندرويد</a>
+                                <a href="#" class="category">أخصائي حسابات</a>
+                                <br />
+                                <a href="#" class="category">محامي إستنئاف</a>
+                                <a href="#" class="category">مسؤل أول تمويل</a>
+                                <a href="#" class="category">عامل أمن</a>
+
+                            </p>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<h5  style="margin:50px 50px 0px 50px ; padding:20px 100px 20px 100px; color:red">@ViewBag.none</h5>
+<!-- جزء الاصناف -->
+
+
+
+<div class="site-section">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+                <h2 class="mb-5">أنواع الوظائف</h2>
+                <br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="100">
+                <a href="../Jobs/GetJobsWithCatgory?id=3" class="h-100 feature-item">
+                    <span class="d-block icon flaticon-calculator mb-3 text-primary"></span>
+                    <h2>وظائف أعمال إدارية</h2>
+                    <span class="counting">1500 وظيفة</span>
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="900">
+                <a href="../Jobs/GetJobsWithCatgory?id=11" class="h-100 feature-item">
+                    <span class="d-block icon flaticon-restaurant mb-3 text-primary"></span>
+                    <h2>وظائف عمارة وهندسة</h2>
+                    <span class="counting">329</span>
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="1000">
+                <a href="../Jobs/GetJobsWithCatgory?id=12" class="h-100 feature-item">
+                    <span class="d-block icon flaticon-trolley mb-3 text-primary"></span>
+                    <h2>وظائف في كل المجالات</h2>
+                    <span class="counting">291</span>
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="1100">
+                <a href="../Jobs/GetJobsWithCatgory?id=13" class="h-100 feature-item">
+                    <span class="d-block icon flaticon-trolley mb-3 text-primary"></span>
+                    <h2>وظائف مالية وقانونية</h2>
+                    <span class="counting">291</span>
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="1200">
+                <a href="../Jobs/GetJobsWithCatgory?id=14" class="h-100 feature-item">
+                    <span class="d-block icon flaticon-trolley mb-3 text-primary"></span>
+                    <h2>وظائف خدمات</h2>
+                    <span class="counting">291</span>
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="1300">
+                <a href="../Jobs/GetJobsWithCatgory?id=15" class="h-100 feature-item">
+                    <span class="d-block icon flaticon-trolley mb-3 text-primary"></span>
+                    <h2>وظائف نقل ومواصلات</h2>
+                    <span class="counting">291</span>
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="1400">
+                <a href="../Jobs/GetJobsWithCatgory?id=16" class="h-100 feature-item">
+                    <span class="d-block icon flaticon-trolley mb-3 text-primary"></span>
+                    <h2>وظائف طب وصيدلة</h2>
+                    <span class="counting">291</span>
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="1500">
+                <a class="h-100 feature-item" href="../Jobs/GetJobsWithCatgory?id=17 ">
+                    <span class="d-block icon flaticon-trolley mb-3 text-primary"></span>
+                    <h2>وظائف وزارة التضامن الأجتماعي</h2>
+                    <span class="counting">291</span>
+                </a>
+            </div>
+
+        </div>
+     </div>
+</div>
+
+
+<!--جزءالوظائف الجديده-->
+<div class="site-section bg-light">
+
+    <div class="container">
+
+        <div class="row"style="text-align:right">
+
+            <!--الجزء اليمين-->
+           <div class="col-md-12 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="100">
+
+                <h2 class="mb-5 h3">وظائف جديدة</h2>
+                @if (ViewBag.jobs != null)
+                      {
+                    foreach (var item in ViewBag.jobs)
+                         {
+                        <a href="#" class="job-item d-block d-md-flex align-items-center  border-bottom fulltime">
+
+                            <div class="company-logo blank-logo text-center text-md-left pl-3">
+
+                                <img src="~/Content/images/company_logo_blank.png" alt="Image" class="img-fluid mx-auto">
+
+                            </div>
+
+                            <div class="job-details h-100">
+
+                                <div class="p-3 align-self-center">
+
+                                    <h3>@item.JobName</h3>
+
+                                    <div class="d-block d-lg-flex">
+
+                                        <div class="mr-3"><span class="icon-room mr-1"></span>@item.Governorates.GovernoratesName</div>
+                                        <div class="mr-3"><span class="icon-suitcase mr-1"> <h4>  العمالة المطلوبة :</h4>@item.RequiredWorkers.RequiredWorkersName</span></div>
+                                        <div><span class="icon-money mr-1"></span> @item.MonthlySalary.MonthlySalaryName </div>
+
+
+                                    </div>
+
+
+                                </div>
+
+                            </div>
+
+
+                        
+
+                            <div class="job-category align-self-center">
+                                <div class="p-3">
+                                    <span class="text-info p-2 rounded border border-info">دوام كلي</span>
+                                </div>
+                            </div>
+
+                        </a>}
+                                            }
+                                            else
+                                            {
+                <!--بداية الجزء الخاص بـ الوظائف الجديدة-->
+                <div class="rounded border jobs-wrap">
+
+                    <a href="#" class="job-item d-block d-md-flex align-items-center  border-bottom fulltime">
+
+                        <div class="company-logo blank-logo text-center text-md-left pl-3">
+
+                            <img src="~/Content/images/company_logo_blank.png" alt="Image" class="img-fluid mx-auto">
+
+                        </div>
+
+                        <div class="job-details h-100">
+
+                            <div class="p-3 align-self-center">
+
+                                <h3>الوظيفة الأوله</h3>
+
+                                <div class="d-block d-lg-flex">
+
+                                    <div class="mr-3"><span class="icon-room mr-1"></span>القاهره الجديده</div>
+                                    <div class="mr-3"><span class="icon-suitcase mr-1">  العمالة المطلوبة</span></div>
+                                    <div><span class="icon-money mr-1"></span> 1500 &mdash; 3500  </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!--الزر-->
+                        <div class="job-category align-self-center">
+                            <div class="p-3">
+                                <span class="text-info p-2 rounded border border-info">دوام كلي</span>
+                            </div>
+                        </div>
+
+                    </a>
+                    <a href="#" class="job-item d-block d-md-flex align-items-center  border-bottom fulltime">
+
+                        <div class="company-logo blank-logo text-center text-md-left pl-3">
+
+                            <img src="~/Content/images/company_logo_blank.png" alt="Image" class="img-fluid mx-auto">
+
+                        </div>
+
+                        <div class="job-details h-100">
+
+                            <div class="p-3 align-self-center">
+
+                                <h3>الوظيفة الأوله</h3>
+
+                                <div class="d-block d-lg-flex">
+
+                                    <div class="mr-3"><span class="icon-room mr-1"></span>القاهره الجديده</div>
+                                    <div class="mr-3"><span class="icon-suitcase mr-1">  العمالة المطلوبة</span></div>
+                                    <div><span class="icon-money mr-1"></span> 1500 &mdash; 3500  </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!--الزر-->
+                        <div class="job-category align-self-center">
+                            <div class="p-3">
+                                <span class="text-info p-2 rounded border border-info">دوام كلي</span>
+                            </div>
+                        </div>
+
+                    </a>
+                    <a href="#" class="job-item d-block d-md-flex align-items-center  border-bottom fulltime">
+
+                        <div class="company-logo blank-logo text-center text-md-left pl-3">
+
+                            <img src="~/Content/images/company_logo_blank.png" alt="Image" class="img-fluid mx-auto">
+
+                        </div>
+
+                        <div class="job-details h-100">
+
+                            <div class="p-3 align-self-center">
+
+                                <h3>الوظيفة الأوله</h3>
+
+                                <div class="d-block d-lg-flex">
+
+                                    <div class="mr-3"><span class="icon-room mr-1"></span>القاهره الجديده</div>
+                                    <div class="mr-3"><span class="icon-suitcase mr-1">  العمالة المطلوبة</span></div>
+                                    <div><span class="icon-money mr-1"></span> 1500 &mdash; 3500  </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!--الزر-->
+                        <div class="job-category align-self-center">
+                            <div class="p-3">
+                                <span class="text-info p-2 rounded border border-info">دوام كلي</span>
+                            </div>
+                        </div>
+
+                    </a>
+                    <a href="#" class="job-item d-block d-md-flex align-items-center  border-bottom fulltime">
+
+                        <div class="company-logo blank-logo text-center text-md-left pl-3">
+
+                            <img src="~/Content/images/company_logo_blank.png" alt="Image" class="img-fluid mx-auto">
+
+                        </div>
+
+                        <div class="job-details h-100">
+
+                            <div class="p-3 align-self-center">
+
+                                <h3>الوظيفة الأوله</h3>
+
+                                <div class="d-block d-lg-flex">
+
+                                    <div class="mr-3"><span class="icon-room mr-1"></span>القاهره الجديده</div>
+                                    <div class="mr-3"><span class="icon-suitcase mr-1">  العمالة المطلوبة</span></div>
+                                    <div><span class="icon-money mr-1"></span> 1500 &mdash; 3500  </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!--الزر-->
+                        <div class="job-category align-self-center">
+                            <div class="p-3">
+                                <span class="text-info p-2 rounded border border-info">دوام كلي</span>
+                            </div>
+                        </div>
+
+                    </a>
+                    <a href="#" class="job-item d-block d-md-flex align-items-center  border-bottom fulltime">
+
+                        <div class="company-logo blank-logo text-center text-md-left pl-3">
+
+                            <img src="~/Content/images/company_logo_blank.png" alt="Image" class="img-fluid mx-auto">
+
+                        </div>
+
+                        <div class="job-details h-100">
+
+                            <div class="p-3 align-self-center">
+
+                                <h3>الوظيفة الأوله</h3>
+
+                                <div class="d-block d-lg-flex">
+
+                                    <div class="mr-3"><span class="icon-room mr-1"></span>القاهره الجديده</div>
+                                    <div class="mr-3"><span class="icon-suitcase mr-1">  العمالة المطلوبة</span></div>
+                                    <div><span class="icon-money mr-1"></span> 1500 &mdash; 3500  </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!--الزر-->
+                        <div class="job-category align-self-center">
+                            <div class="p-3">
+                                <span class="text-info p-2 rounded border border-info">دوام كلي</span>
+                            </div>
+                        </div>
+
+                    </a>
+                    <a href="#" class="job-item d-block d-md-flex align-items-center  border-bottom fulltime">
+
+                        <div class="company-logo blank-logo text-center text-md-left pl-3">
+
+                            <img src="~/Content/images/company_logo_blank.png" alt="Image" class="img-fluid mx-auto">
+
+                        </div>
+
+                        <div class="job-details h-100">
+
+                            <div class="p-3 align-self-center">
+
+                                <h3>الوظيفة الأوله</h3>
+
+                                <div class="d-block d-lg-flex">
+
+                                    <div class="mr-3"><span class="icon-room mr-1"></span>القاهره الجديده</div>
+                                    <div class="mr-3"><span class="icon-suitcase mr-1">  العمالة المطلوبة</span></div>
+                                    <div><span class="icon-money mr-1"></span> 1500 &mdash; 3500  </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!--الزر-->
+                        <div class="job-category align-self-center">
+                            <div class="p-3">
+                                <span class="text-info p-2 rounded border border-info">دوام كلي</span>
+                            </div>
+                        </div>
+
+                    </a>
+
+                </div>
+                                           }
+                <!--الزر الأخضر-->
+
+                <div class="col-md-12 text-center mt-5">
+                    <a href="../jobs/index" class="btn btn-primary rounded py-3 px-5"><span class="icon-plus-circle"></span>  عرض المزيد من الوظائف </a>
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+</div>
+
+<!--جزء الشهادات والفيديو-->
+
+<div class="site-section" data-aos="fade" style="text-align:right">
+
+    <div class="container">
+
+        <div class="row align-items-center">
+
+            <!--الصورة-->
+
+
+            <div class="col-md-5 ml-auto">
+
+                <div class="text-right mb-5 section-heading">
+
+                    <h2>عن الموقع</h2>
+
+                </div>
+
+                <p class="mb-4 h5 font-italic lineheight1-5">
+
+                    <h4>بتدور على وظيفة ؟</h4>
+
+                    <hr />
+
+                <p>
+                    وظيفتك عندنا علي موقع أعطني فرصه للتوظيف !!
+                    <br />
+                    المفاجأه !! الآن من خلال موقعنا الخاص بـ تقديم
+                    الوظائف بـ شكل مستمر يمكنك بـ كل سهولة العثور علي الوظيفة المناسبة لك أينما كنت :) فقط كل ما عليك قم
+                    بـ تسجل بياناتك أسمك وعمرك وعنوانك وجنسيتك  ثم أضف مؤهلاتك وخبراتك ومهاراتك  بـ التفاصيل وستصلك منا
+                    بـ أستمرار أحدث الوظائف فـ مختلف التخصصات ومختلف التخصصات وأنسبها لك من أكبر الشركات والمؤسسات فـ مصر .
+                
+
+                <br />
+
+                <p>
+
+                    <a href="~/Content/images/Give Me.mp4" class="popup-vimeo text-uppercase">شاهد الفيديو <span class="icon-arrow-right small"></span></a>
+
+                </p>
+
+            </div>
+
+            <div class="col-md-6 mb-5 mb-md-0">
+
+                <div class="img-border">
+
+                    <a href="~/Content/images/Give Me.mp4" class="popup-vimeo image-play">
+
+                        <span class="icon-wrap">
+
+                            <span class="icon icon-play"></span>
+
+                        </span>
+
+                        <video class="img-fluid rounded"
+                               autoplay
+                               controls
+                               width="800"
+                               height="400">
+
+                            <source src="~/Content/images/Give Me.mp4" type="video/mp4">
+                            <source src="~/Content/images/Give Me.ogg" type="video/ogg">
+
+                            فيديو يتكلم عن موقع " أعطني فرصه " للتوظيف 2019
+
+                        </video>
+
+                    </a>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<!--وظيفة أحلامك-->
+<div class="site-blocks-cover overlay inner-page" style="background-image: url('../../Content/images/hero_1.jpg');" data-aos="fade" data-stellar-background-ratio="0.5">
+
+    <div class="container">
+
+        <div class="row align-items-center justify-content-center">
+
+            <div class="col-md-6 text-center" data-aos="fade">
+
+                <h1 class="h3 mb-0">وظيفة أحلامك ؟؟</h1>
+                <p class="h3 text-white mb-5">الآن فـ أنتظارك</p>
+
+                <p>
+                    <a href="#" class="btn btn-outline-warning py-3 px-4">
+                        العثور على وظائف
+                    </a>
+                    <a href="#" class="btn btn-warning py-3 px-4">
+                        التقديم لـ الوظيفة
+                    </a>
+                </p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--=====================================================================================================================================-->
+<!--لماذا أخترتنا-->
+<!--====================================================================================================-->
+
+<div class="DivCenter" style="margin:0 auto;">
+
+    <div class="site-section site-block-feature bg-light">
+
+        <div class="container">
+
+            <div class="text-center mb-5 section-heading">
+
+                <h2>لماذا أخترتنا ؟؟</h2>
+
+            </div>
+
+            <div class="d-block d-md-flex border-bottom">
+
+                <div class="text-center p-4 item border-right" data-aos="fade">
+
+                    <span class="flaticon-stethoscope display-3 mb-3 d-block text-primary"></span>
+
+                    <h2 class="h4">
+
+                        نحن متحمسون بما نقوم به
+
+                    </h2>
+
+
+                    <p>
+
+                        ما يميزنا عن الجميع فــ المنافسة هو إننا متحمسون لـ منتجاتنا و خدماتنا التى نقدمها و جودة دعمنا المستمر لـ كل المستخدمين .
+
+                    </p>
+
+                    <p><a href="#">قراءة المزيد <span class="icon-arrow-right small"></span></a></p>
+
+                </div>
+
+                <div class="text-center p-4 item" data-aos="fade">
+
+                    <span class="flaticon-wrench display-3 mb-3 d-block text-primary"></span>
+
+                    <h2 class="h4">
+                        جودة دعمنا لا مثيل لها
+                    </h2>
+                    <p>
+
+                        نحن نبتعد بـــ الدعم خطوة أخري من خلال تخصيص ردودنا لــ تناسب معرفتك وتوقعاتك وشخصيتك و تفكيرك فـ التطوورات .
+                    </p>
+
+                    <a href="#"> قراءة المزيد <span class="icon-arrow-right small"></span></a>
+
+                </div>
+
+
+            </div>
+
+            <div class="d-block d-md-flex">
+
+                <div class="text-center p-4 item border-right" data-aos="fade">
+
+                    <span class="flaticon-stethoscope display-3 mb-3 d-block text-primary"></span>
+
+                    <h2 class="h4">
+
+                        سجلات كبيره الحجم
+
+                    </h2>
+
+                    <p>
+
+                        اكتسبنا دائما منكم السمعه بـ اعتبارنا شركة صادقة وموثوق بها ف العامين الماضين مع معظم عملائنا القادمين من الإحالات .
+
+                    </p>
+
+                    <p><a href="#">قراءة المزيد <span class="icon-arrow-right small"></span></a></p>
+
+                </div>
+
+                <div class="text-center p-4 item" data-aos="fade">
+
+                    <span class="flaticon-calculator display-3 mb-3 d-block text-primary"></span>
+
+                    <h2 class="h4">
+
+                        ونحن نرحب ونأخذ ملاحظاتك بعين الاعتبار
+
+                    </h2>
+
+                    <p>
+                        نحن نتطلع دائما الـى تحسين كل جانب من جوانب أعمالنا من المزيد من المميزات على طول الطريق الي دروس أكثر تواتراً .
+
+
+                    </p>
+
+                    <p><a href="#">قراءة المزيد <span class="icon-arrow-right small"></span></a></p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<!--======================================================================================================-->
+<!--=====================================================================================================================================-->
+

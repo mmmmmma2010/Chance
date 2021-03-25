@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Give_Pro.Models.JobsViewModel>
+
+@{
+    ViewBag.Title = "الوظائف التي تم نشرها من قبلكم";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>الوظائف التي تم نشرها من قبلكم</h2>
+
+@foreach (var gr in Model)
+{
+<h3>
+    @gr.JobName
+</h3>
+    <table class="table table-bordered table-hover">
+        <tr>
+            <th>
+                أسم الباحث
+            </th>
+            <th>
+                نص الرساله
+            </th>
+            <th>
+                تاريخ الإرسال
+            </th>
+            <th>
+                السيرة الذاتية
+            </th>
+        </tr>
+        @foreach (var item in gr.Items)
+        {
+        <tr>
+            <td>
+                @item.User.UserName
+            </td>
+            <td>
+                @item.Message
+            </td>
+            <td>
+                @item.ApplyDate
+            </td>
+            <td>
+               @Html.ActionLink("السيرة الذاتية ", "../ResearcherProfiles/GetCV", new { fileName = item.CV }, htmlAttributes: new { @class = "btn btn-primary col-md-8" })
+
+            </td>
+        </tr>
+        }
+
+
+    </table>
+}

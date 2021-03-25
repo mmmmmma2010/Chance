@@ -1,0 +1,194 @@
+﻿@model Give_Pro.Models.ResearcherProfile
+
+@{
+    ViewBag.Title = "الحذف";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>الحذف</h2>
+
+<h3>
+    هل أنت متأكد من تنفيذ عمليه الحذف ؟
+</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Age.AgeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age.AgeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cities.CitiesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cities.CitiesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyActivity.CompanyActivityName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompanyActivity.CompanyActivityName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Countries.CountriesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Countries.CountriesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DrivingLicense.DrivingLicenseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DrivingLicense.DrivingLicenseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EducationLevel.EducationLevelName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EducationLevel.EducationLevelName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender.GenderName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gender.GenderName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Governorates.GovernoratesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Governorates.GovernoratesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LevelArmy.LevelArmyName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LevelArmy.LevelArmyName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LevelComputer.LevelComputerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LevelComputer.LevelComputerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LevelEnglish.LevelEnglishName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LevelEnglish.LevelEnglishName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LevelOffice.LevelOfficeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LevelOffice.LevelOfficeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nationalities.NationalitiesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nationalities.NationalitiesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.YearsExperience.YearsExperienceName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.YearsExperience.YearsExperienceName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberCard)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberCard)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateEnd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateEnd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateBirth)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateBirth)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressDetails)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressDetails)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FileCV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FileCV)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="حذف" class="btn btn-default" /> |
+            @Html.ActionLink("العوده إلي القائمه", "Index")
+        </div>
+    }
+</div>

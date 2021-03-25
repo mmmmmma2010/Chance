@@ -1,0 +1,155 @@
+﻿@model IEnumerable<Give_Pro.Models.ResearcherProfile>
+
+@{
+    ViewBag.Title = "قائمة حسابات الباحثون";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>قائمة حسابات الباحثون</h2>
+
+<p>
+    @Html.ActionLink("إنشاء جديد", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Age.AgeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cities.CitiesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CompanyActivity.CompanyActivityName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Countries.CountriesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DrivingLicense.DrivingLicenseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EducationLevel.EducationLevelName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender.GenderName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Governorates.GovernoratesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LevelArmy.LevelArmyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LevelComputer.LevelComputerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LevelEnglish.LevelEnglishName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LevelOffice.LevelOfficeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nationalities.NationalitiesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.YearsExperience.YearsExperienceName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumberCard)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateEnd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateBirth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumberPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AddressDetails)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FileCV)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age.AgeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cities.CitiesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompanyActivity.CompanyActivityName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Countries.CountriesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DrivingLicense.DrivingLicenseName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EducationLevel.EducationLevelName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender.GenderName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Governorates.GovernoratesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LevelArmy.LevelArmyName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LevelComputer.LevelComputerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LevelEnglish.LevelEnglishName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LevelOffice.LevelOfficeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nationalities.NationalitiesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.YearsExperience.YearsExperienceName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumberCard)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateEnd)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateBirth)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumberPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AddressDetails)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FileCV)
+        </td>
+        <td>
+            @Html.ActionLink("تعديل", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("تفاصيل", "Details", new { id = item.Id }) |
+            @Html.ActionLink("حذف", "Delete", new { id = item.Id })
+        </td>
+
+    </tr>
+}
+
+</table>

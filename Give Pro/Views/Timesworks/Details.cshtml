@@ -1,0 +1,26 @@
+﻿@model Give_Pro.Models.Timeswork
+
+@{
+    ViewBag.Title = "التفاصيل";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>التفاصيل</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TimesworkName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TimesworkName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("تعديل", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("العوده إلي القائمه", "Index")
+</p>

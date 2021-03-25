@@ -1,0 +1,193 @@
+﻿@model Give_Pro.Models.PublisherProfile
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>PublisherProfile</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cities.CitiesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cities.CitiesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyActivity.CompanyActivityName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompanyActivity.CompanyActivityName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Countries.CountriesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Countries.CountriesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Governorates.GovernoratesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Governorates.GovernoratesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffSize.StaffSizeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffSize.StaffSizeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Timeswork.TimesworkName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Timeswork.TimesworkName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.UserType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User.UserType)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberCard)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberCard)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateEnd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateEnd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateBirth)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateBirth)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressDetails)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressDetails)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompanyName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ComRegistrationNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ComRegistrationNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LegalPaper)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LegalPaper)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WebSite)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WebSite)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GroundNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GroundNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompLogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompLogo)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

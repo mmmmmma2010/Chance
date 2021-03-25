@@ -1,0 +1,961 @@
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Give Pro.dll.config
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Give Pro.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Give Pro.pdb
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\csc.exe
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\csc.exe.config
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\csc.rsp
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\csi.exe
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\csi.exe.config
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\csi.rsp
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.AppContext.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Collections.Immutable.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Console.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.ValueTuple.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\vbc.exe
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\vbc.exe.config
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\vbc.rsp
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe.config
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Web.Infrastructure.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Helpers.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Mvc.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Razor.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Webpages.Deployment.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Webpages.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Webpages.Razor.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Razor.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Webpages.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Webpages.Deployment.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Webpages.Razor.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Helpers.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Mvc.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give Pro.csprojAssemblyReference.cache
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CoreCompileInputs.cache
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CopyComplete
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give Pro.dll
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give Pro.pdb
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Net.Http.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Net.Sockets.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\EntityFramework.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\EntityFramework.SqlServer.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\EntityFramework.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\EntityFramework.SqlServer.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Antlr3.Runtime.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Security.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Newtonsoft.Json.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Owin.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Optimization.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\WebGrease.dll
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Antlr3.Runtime.pdb
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Security.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\Newtonsoft.Json.xml
+E:\Programming\AL Project\Give Pro\Give Pro\bin\System.Web.Optimization.xml
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.InitialCreate.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.GenerateResource.cache
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddColumn.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCategoryTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAdvantagesWorkTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAgeTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCountriesTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCompanyActivityTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAlwaysTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCurrencyTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGenderTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddDrivingLicenseTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddEducationLevelTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelArmyTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelComputerTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelEnglishTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelOfficeTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddMonthlySalaryTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddNationalitiesTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddStaffSizeTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddTimesworkTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWeekendTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWorkHoursTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddYearsExperienceTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddRequiredWorkersTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGovernoratesTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCitiesTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Give Pro.dll.config
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Give Pro.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Give Pro.pdb
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\csc.exe
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\csc.exe.config
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\csc.rsp
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\csi.exe
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\csi.exe.config
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\csi.rsp
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.AppContext.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Collections.Immutable.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Console.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Net.Http.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Net.Sockets.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.ValueTuple.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\vbc.exe
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\vbc.exe.config
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\vbc.rsp
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe.config
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Antlr3.Runtime.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\EntityFramework.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\EntityFramework.SqlServer.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Security.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Web.Infrastructure.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Newtonsoft.Json.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Owin.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.Helpers.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.Mvc.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.Optimization.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.Razor.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.WebPages.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\WebGrease.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Antlr3.Runtime.pdb
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\EntityFramework.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\EntityFramework.SqlServer.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Security.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\Newtonsoft.Json.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.Helpers.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.Mvc.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.Optimization.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.Razor.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.WebPages.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.xml
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give Pro.csprojAssemblyReference.cache
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.InitialCreate.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddColumn.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCategoryTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAdvantagesWorkTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAgeTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCountriesTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCompanyActivityTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAlwaysTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCurrencyTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGenderTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddDrivingLicenseTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddEducationLevelTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelArmyTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelComputerTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelEnglishTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelOfficeTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddMonthlySalaryTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddNationalitiesTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddStaffSizeTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddTimesworkTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWeekendTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWorkHoursTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddYearsExperienceTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddRequiredWorkersTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGovernoratesTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCitiesTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable.resources
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.GenerateResource.cache
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CoreCompileInputs.cache
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CopyComplete
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give Pro.dll
+E:\Programming\AL Project\قبل الفطار عند فيديو 13\Give Pro\Give Pro\obj\Debug\Give Pro.pdb
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Give Pro.dll.config
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Give Pro.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Give Pro.pdb
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\csc.exe
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\csc.exe.config
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\csc.rsp
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\csi.exe
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\csi.exe.config
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\csi.rsp
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.AppContext.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Collections.Immutable.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Console.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Net.Http.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Net.Sockets.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.ValueTuple.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\vbc.exe
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\vbc.exe.config
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\vbc.rsp
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe.config
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Antlr3.Runtime.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\EntityFramework.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\EntityFramework.SqlServer.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Security.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Web.Infrastructure.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Newtonsoft.Json.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Owin.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.Helpers.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.Mvc.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.Optimization.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.Razor.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.WebPages.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\WebGrease.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Antlr3.Runtime.pdb
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\EntityFramework.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\EntityFramework.SqlServer.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Security.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\Newtonsoft.Json.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.Helpers.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.Mvc.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.Optimization.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.Razor.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.WebPages.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.xml
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give Pro.csprojAssemblyReference.cache
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.InitialCreate.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddColumn.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCategoryTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAdvantagesWorkTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAgeTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCountriesTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCompanyActivityTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAlwaysTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCurrencyTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGenderTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddDrivingLicenseTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddEducationLevelTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelArmyTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelComputerTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelEnglishTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelOfficeTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddMonthlySalaryTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddNationalitiesTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddStaffSizeTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddTimesworkTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWeekendTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWorkHoursTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddYearsExperienceTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddRequiredWorkersTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGovernoratesTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCitiesTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable.resources
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.GenerateResource.cache
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CoreCompileInputs.cache
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CopyComplete
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give Pro.dll
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give Pro.pdb
+E:\Programming\AL Project\الحالي\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.EditJobModel.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Give Pro.dll.config
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Give Pro.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Give Pro.pdb
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\csc.exe
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\csc.exe.config
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\csc.rsp
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\csi.exe
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\csi.exe.config
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\csi.rsp
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.AppContext.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Collections.Immutable.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Console.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Net.Http.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Net.Sockets.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.ValueTuple.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\vbc.exe
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\vbc.exe.config
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\vbc.rsp
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe.config
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Antlr3.Runtime.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\EntityFramework.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\EntityFramework.SqlServer.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Security.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Web.Infrastructure.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Newtonsoft.Json.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Owin.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.Helpers.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.Mvc.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.Optimization.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.Razor.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.WebPages.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\WebGrease.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Antlr3.Runtime.pdb
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\EntityFramework.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\EntityFramework.SqlServer.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Security.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\Newtonsoft.Json.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.Helpers.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.Mvc.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.Optimization.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.Razor.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.WebPages.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.xml
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give Pro.csprojAssemblyReference.cache
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.InitialCreate.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddColumn.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCategoryTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAdvantagesWorkTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAgeTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCountriesTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCompanyActivityTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAlwaysTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCurrencyTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGenderTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddDrivingLicenseTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddEducationLevelTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelArmyTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelComputerTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelEnglishTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelOfficeTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddMonthlySalaryTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddNationalitiesTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddStaffSizeTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddTimesworkTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWeekendTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWorkHoursTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddYearsExperienceTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddRequiredWorkersTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGovernoratesTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCitiesTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.EditJobModel.resources
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.GenerateResource.cache
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CoreCompileInputs.cache
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CopyComplete
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give Pro.dll
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give Pro.pdb
+E:\Programming\AL Project\Testing\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable1.resources
+E:\Programming\AL Project\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable1.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Give Pro.dll.config
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Give Pro.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Give Pro.pdb
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csc.exe
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csc.exe.config
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csc.rsp
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csi.exe
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csi.exe.config
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csi.rsp
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.AppContext.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Console.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Net.Http.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\vbc.exe
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\vbc.exe.config
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\vbc.rsp
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Antlr3.Runtime.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\EntityFramework.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Newtonsoft.Json.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Owin.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Helpers.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Mvc.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Optimization.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Razor.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\WebGrease.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Antlr3.Runtime.pdb
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\EntityFramework.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\Newtonsoft.Json.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Helpers.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Mvc.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Optimization.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Razor.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.InitialCreate.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddColumn.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCategoryTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAdvantagesWorkTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAgeTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCountriesTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCompanyActivityTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAlwaysTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCurrencyTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGenderTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddDrivingLicenseTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddEducationLevelTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelArmyTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelComputerTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelEnglishTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelOfficeTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddMonthlySalaryTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddNationalitiesTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddStaffSizeTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddTimesworkTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWeekendTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWorkHoursTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddYearsExperienceTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddRequiredWorkersTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGovernoratesTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCitiesTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.EditJobModel.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable1.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.GenerateResource.Cache
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.pdb
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob1.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable1.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable2.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable3.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable2.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.UpdateData.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Give Pro.dll.config
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Give Pro.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Give Pro.pdb
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csc.exe
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csc.exe.config
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csc.rsp
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csi.exe
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csi.exe.config
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\csi.rsp
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.AppContext.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Collections.Immutable.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Console.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Net.Http.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Net.Sockets.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.ValueTuple.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\vbc.exe
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\vbc.exe.config
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\vbc.rsp
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe.config
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Antlr3.Runtime.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\EntityFramework.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\EntityFramework.SqlServer.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Web.Infrastructure.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Newtonsoft.Json.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Owin.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Helpers.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Mvc.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Optimization.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Razor.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\WebGrease.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Antlr3.Runtime.pdb
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\EntityFramework.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\EntityFramework.SqlServer.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\Newtonsoft.Json.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Helpers.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Mvc.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Optimization.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.Razor.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.xml
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.csprojAssemblyReference.cache
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.InitialCreate.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddColumn.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCategoryTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAdvantagesWorkTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAgeTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCountriesTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCompanyActivityTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAlwaysTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCurrencyTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGenderTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddDrivingLicenseTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddEducationLevelTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelArmyTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelComputerTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelEnglishTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelOfficeTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddMonthlySalaryTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddNationalitiesTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddStaffSizeTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddTimesworkTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWeekendTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWorkHoursTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddYearsExperienceTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddRequiredWorkersTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGovernoratesTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCitiesTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.EditJobModel.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable1.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob1.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable1.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable2.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable3.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable2.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.UpdateData.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.GenerateResource.cache
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CoreCompileInputs.cache
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.CopyComplete
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.dll
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give Pro.pdb
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable1.resources
+E:\Programming\Give Pro Last\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable3.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Give Pro.dll.config
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Give Pro.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Give Pro.pdb
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\csc.exe
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\csc.exe.config
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\csc.rsp
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\csi.exe
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\csi.exe.config
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\csi.rsp
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.AppContext.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Console.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Net.Http.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\vbc.exe
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\vbc.exe.config
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\vbc.rsp
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Antlr3.Runtime.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\EntityFramework.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Newtonsoft.Json.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Owin.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.Helpers.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.Mvc.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.Optimization.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.Razor.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.WebPages.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\WebGrease.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Antlr3.Runtime.pdb
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\EntityFramework.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\Newtonsoft.Json.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.Helpers.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.Mvc.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.Optimization.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.Razor.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.WebPages.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.InitialCreate.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddColumn.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCategoryTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAdvantagesWorkTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAgeTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCountriesTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCompanyActivityTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddAlwaysTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCurrencyTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGenderTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddDrivingLicenseTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddEducationLevelTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelArmyTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelComputerTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelEnglishTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddLevelOfficeTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddMonthlySalaryTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddNationalitiesTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddStaffSizeTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddTimesworkTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWeekendTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddWorkHoursTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddYearsExperienceTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddRequiredWorkersTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddGovernoratesTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddCitiesTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.EditJobModel.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable1.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.ApplyForJob1.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable1.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable2.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable3.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable2.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.UpdateData.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddJobsTable1.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable3.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give Pro.csproj.GenerateResource.Cache
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give Pro.dll
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give Pro.pdb
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable4.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddPublisherProfileTable5.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give_Pro.Migrations.AddResearcherProfileTable4.resources
+C:\Users\Mohamed Ali\Downloads\Give Pro\Give Pro\Give Pro\obj\Debug\Give Pro.csprojResolveAssemblyReference.cache

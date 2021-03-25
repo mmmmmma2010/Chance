@@ -1,0 +1,37 @@
+﻿@model Give_Pro.Models.Cities
+
+@{
+    ViewBag.Title = "التفاصيل";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>التفاصيل</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Governorates.GovernoratesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Governorates.GovernoratesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CitiesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CitiesName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("تعديل", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("العوده إلي القائمه", "Index")
+</p>
+
+
+

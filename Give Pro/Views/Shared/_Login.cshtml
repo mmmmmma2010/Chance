@@ -1,0 +1,89 @@
+﻿@using Microsoft.AspNet.Identity
+@using WebApplication1.Models
+
+
+@if (Request.IsAuthenticated)
+{
+
+    using (Html.BeginForm("Logoff", "Account", FormMethod.Post, new { id = "logoff" }))
+    {
+        var db = new ApplicationDbContext();
+        var UserID = User.Identity.GetUserId();
+        var CurrentUser = db.Users.Where(a => a.Id == UserID).SingleOrDefault();
+
+        @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right">
+
+            <li class="dropdown">
+
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <span class="glyphicon glyphicon-user"></span>
+                    <strong>مرحبا بك يا : @CurrentUser.UserName</strong>
+                    <span class="glyphicon glyphicon-chevron-down"></span>
+                </a>
+
+                <ul class="dropdown-menu" >
+                    <li>
+                        <div class="navbar-user">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <p class="text-right">
+                                        <span class="glyphicon glyphicon-user img-size"></span>
+                                    </p>
+                                </div>
+                                <div class="col-lg-8"style="max-width:100%">
+                                    <p class="text-center">
+                                        <strong>
+                                            @CurrentUser.UserName
+                                        </strong>
+                                    </p>
+                                    @if (CurrentUser.UserType == "الناشرون")
+                                    {
+                                        <a href="~/Home/GetJobsByPublisher" class="btn btn-success btn-block">الوظائف التي قمت بـ نشرها</a>
+                                        <a href="~/Jobs/Create" class="btn btn-success btn-block">نشر وظيفة جديده</a>
+                                        <a href="~/PublisherProfiles/Edit" class="btn btn-success btn-block">تعديل الملف الشخصى</a>
+
+                                    }
+                                    else
+                                    {
+                                        <a href="~/Home/GetJobsByUser" class="btn btn-success btn-block">الوظائف التي تقدمت إليها</a>
+                                        <a href="~/ResearcherProfiles/Edit" class="btn btn-success btn-block">تعديل الملف الشخصى</a>
+
+                                    }
+                                    <a href="~/Account/EditProfile" class="btn btn-primary btn-block">تعديل الحساب</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="divider"></li>
+                    <li>
+                        <div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <p>
+                                        <a href="javascript:document.getElementById('logoff').submit()" class="btn btn-danger btn-block" style="margin-top:20px">تسجيل الخروج</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+
+            </li>
+
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            <a href="~/Account/Login">
+                <i class="glyphicon glyphicon-user"></i>
+                تسجيل الدخول
+            </a>
+        </li>
+    </ul>
+}

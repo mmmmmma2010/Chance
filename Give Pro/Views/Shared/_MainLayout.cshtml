@@ -1,0 +1,494 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>موقع أعطني فرصه للتوظيف</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Work+Sans:300,400,700" rel="stylesheet">
+    <link href="~/Content/bootstrap-rtl.css" rel="stylesheet" />
+    <link href="~/Content/fonts/icomoon/style.css" rel="stylesheet" />
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/css/magnific-popup.css" rel="stylesheet" />
+    <link href="~/Content/css/jquery-ui.css" rel="stylesheet" />
+    <link href="~/Content/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/Content/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="~/Content/css/bootstrap-datepicker.css" rel="stylesheet" />
+    <link href="~/Content/css/animate.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
+
+    <link href="~/Content/fonts/flaticon/font/flaticon.css" rel="stylesheet" />
+    <link href="~/Content/css/aos.css" rel="stylesheet" />
+
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+
+
+    <style>
+    </style>
+</head>
+
+<!-- End Head -->
+<!--Start Bady-->
+
+<body class="droid-arabic-kufi">
+
+    <div class="site-wrap" style="text-align:right">
+
+        <!--الجزء الخاص بـ عمل الموقع علي الموبيلات-->
+        <div class="site-mobile-menu">
+
+            <div class="site-mobile-menu-header">
+
+                <div class="site-mobile-menu-close mt-3">
+
+                    <span class="icon-close2 js-menu-toggle"></span>
+
+                </div>
+            </div>
+
+            <div class="site-mobile-menu-body"></div>
+        </div>
+
+        <!--==========start Navbar============ -->
+
+        <div class="site-navbar-wrap js-site-navbar bg-white">
+
+            <div class="container">
+
+                <div class="site-navbar bg-light">
+
+                    <div class="py-1">
+
+                        <div class="row align-items-center">
+
+                            <div class="col-2">
+
+                                <a href="~/Home/Index">
+
+                                    <img src="~/Content/images/logo.jpg" style="margin:0px" width="100px" height="90px" class="img-responsive thumbnail" alt="">
+
+                                </a>
+                            </div>
+
+                            <div class="col-10">
+
+                                <nav class="site-navigation " role="navigation">
+
+                                    <div class="container"style=" text-align: left;">
+
+                                        <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+
+                                        <ul class="site-menu js-clone-nav d-none d-lg-block">
+                                            <li class="has-children" style="    margin-right: -50px">
+                                                <a href="#">تصفح الوظائف</a>
+
+                                                <ul class="dropdown arrow-top"style="left:20px">
+
+                                                    <li>@Html.ActionLink("وظائف أعمال إدارية", "../Jobs/GetJobsWithCatgory", new { id = 3 })</li>
+                                                    <li>@Html.ActionLink("وظائف سياحة وضيافة", "../Jobs/GetJobsWithCatgory", new { id = 4 })</li>
+                                                    <li>@Html.ActionLink("وظائف حرف", "../Jobs/GetJobsWithCatgory", new { id = 5 })</li>
+                                                    <li>@Html.ActionLink("وظائف تكنولوجيا معلومات وإتصالات", "../Jobs/GetJobsWithCatgory", new { id = 6 })</li>
+                                                    <li>@Html.ActionLink("وظائف تربية وتعليم", "../Jobs/GetJobsWithCatgory", new { id = 7 })</li>
+                                                    <li>@Html.ActionLink("وظائف تسويق ومبيعات وعلاقات عامة", "../Jobs/GetJobsWithCatgory", new { id = 8 })</li>
+                                                    <li>@Html.ActionLink("وظائف التشيد والبناء", "../Jobs/GetJobsWithCatgory", new { id = 9 })</li>
+                                                    <li>@Html.ActionLink("وظائف صناعة", "../Jobs/GetJobsWithCatgory", new { id = 10 })</li>
+                                                    <li>@Html.ActionLink("وظائف عمارة وهندسة", "../Jobs/GetJobsWithCatgory", new { id = 11 })</li>
+                                                    <li>@Html.ActionLink("وظائف في كل المجالات", "../Jobs/GetJobsWithCatgory", new { id = 12 })</li>
+                                                    <li>@Html.ActionLink("وظائف مالية وقانونية", "../Jobs/GetJobsWithCatgory", new { id = 13 })</li>
+                                                    <li>@Html.ActionLink("وظائف خدمات", "../Jobs/GetJobsWithCatgory", new { id = 14 })</li>
+                                                    <li>@Html.ActionLink("وظائف نقل ومواصلات", "../Jobs/GetJobsWithCatgory", new { id = 15 })</li>
+                                                    <li>@Html.ActionLink("وظائف طب وصيدلة", "../Jobs/GetJobsWithCatgory", new { id = 16 })</li>
+                                                    <li>@Html.ActionLink("وظائف وزارة التضامن الأجتماعي", "../Jobs/GetJobsWithCatgory", new { id = 17 })</li>
+
+                                                </ul>
+
+                                            </li>
+
+                                            <li class="has-children">
+                                                <a href="#">تصفح بالمحافظات</a>
+
+                                                <ul class="dropdown arrow-top"style="left:20px">
+
+                                                    <li>@Html.ActionLink("وظائف الأسماعليه", "../Jobs/GetJobsWithCity", new { id = 26 })</li>
+                                                    <li>@Html.ActionLink("وظائف الأسكندريه", "../Jobs/GetJobsWithCity", new { id = 5 })</li>
+                                                    <li>@Html.ActionLink("وظائف القاهره", "../Jobs/GetJobsWithCity", new { id = 13 })</li>
+                                                    <li>@Html.ActionLink("وظائف الجيزه", "../Jobs/GetJobsWithCity", new { id = 7 })</li>
+                                                    <li>@Html.ActionLink("وظائف الأقصر", "../Jobs/GetJobsWithCity", new { id = 4 })</li>
+                                                    <li>@Html.ActionLink("وظائف أسيوط", "../Jobs/GetJobsWithCity", new { id = 3 })</li>
+                                                    <li>@Html.ActionLink("وظائف البحيره", "../Jobs/GetJobsWithCity", new { id = 6 })</li>
+                                                    <li>@Html.ActionLink("وظائف دمياط", "../Jobs/GetJobsWithCity", new { id = 22 })</li>
+                                                    <li>@Html.ActionLink("وظائف الدقهليه", "../Jobs/GetJobsWithCity", new { id = 1 })</li>
+                                                    <li>@Html.ActionLink("وظائف السويس", "../Jobs/GetJobsWithCity", new { id = 9 })</li>
+                                                    <li>@Html.ActionLink("وظائف الشرقيه", "../Jobs/GetJobsWithCity", new { id = 8 })</li>
+                                                    <li>@Html.ActionLink("وظائف شمال سيناء", "../Jobs/GetJobsWithCity", new { id = 20 })</li>
+                                                    <li>@Html.ActionLink("وظائف الغربيه", "../Jobs/GetJobsWithCity", new { id = 10 })</li>
+                                                    <li>@Html.ActionLink("وظائف القليوبيه", "../Jobs/GetJobsWithCity", new { id = 12 })</li>
+                                                    <li>@Html.ActionLink("وظائف الفيوم", "../Jobs/GetJobsWithCity", new { id = 11 })</li>
+                                                    <li>@Html.ActionLink("وظائف المنوفيه", "../Jobs/GetJobsWithCity", new { id = 14 })</li>
+                                                    <li>@Html.ActionLink("وظائف المنيا", "../Jobs/GetJobsWithCity", new { id = 15 })</li>
+                                                    <li>@Html.ActionLink("وظائف الوادي الجديد", "../Jobs/GetJobsWithCity", new { id = 17 })</li>
+                                                    <li>@Html.ActionLink("وظائف أسوان", "../Jobs/GetJobsWithCity", new { id = 2 })</li>
+                                                    <li>@Html.ActionLink("وظائف بني سويف", "../Jobs/GetJobsWithCity", new { id = 16 })</li>
+                                                    <li>@Html.ActionLink("وظائف بورسعيد", "../Jobs/GetJobsWithCity", new { id = 19 })</li>
+                                                    <li>@Html.ActionLink("وظائف جنوب سيناء", "../Jobs/GetJobsWithCity", new { id = 21 })</l>
+                                                    <li>@Html.ActionLink("وظائف كفرالشيخ", "../Jobs/GetJobsWithCity", new { id = 24 })</li>
+                                                    <li>@Html.ActionLink("وظائف مطروح", "../Jobs/GetJobsWithCity", new { id = 25 })</li>
+                                                    <li>@Html.ActionLink("وظائف قنا", "../Jobs/GetJobsWithCity", new { id = 18 })</li>
+                                                    <li>@Html.ActionLink("وظائف سوهاج", "../Jobs/GetJobsWithCity", new { id = 23 })</li>
+                                                    <li>@Html.ActionLink(">وظائف البحر الأحمر", "../Jobs/GetJobsWithCity", new { id = 27 })</li>
+                                                    <li>@Html.ActionLink("جميع محافظات مصر", "../Jobs/GetJobsWithCity", new { id = 0 })</li>
+
+                                                </ul>
+
+                                            </li>
+
+
+                                            <li><a href="~/Home/Contact">اتصل بنا</a></li>
+
+                                            <li><a href="~/Home/About">حول الموقع</a></li>
+
+
+                                            <li style="margin-bottom:-20px;">
+                                                @Html.Partial("_Login")
+                                            </li>
+                                           @if (!Request.IsAuthenticated) {
+                                             <li style=" margin-right: 15px">
+                                                <a href="~/Account/Register"><span class="bg-primary text-white py-3 px-3 rounded">الاشتراك معنا<span class="icon-plus mr-3"></span></span></a>
+                                            </li>
+                                           }
+                                        </ul>
+                                    </div>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--==========End Navbar============ -->
+
+        <div class="row" style="height:150px" ></div>
+
+        @*<div style="height: 113px;"></div>*@
+
+        <!--=========Start=Bady============ -->
+        @RenderBody()
+
+        <!--=========End =Bady============ -->
+        <!--==========Start footer============ -->
+        <div class="row" style="height:150px"></div>
+        <footer class="site-footer" style="width:101%">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-4">
+
+                        <h3 class="footer-heading mb-4 text-white">حول الموقع</h3>
+
+                        <p>
+
+                            موقع " أعطني فرصه " يوفر لـ الجميع من مختلف المحافظات والمدن فرص عمل ووظائف حقيقية لـ جميع المؤهلات والأعمار والفئات بـ شكل مستمر .
+                        </p>
+
+
+                        <p><a href="~/Home/About" class="btn btn-primary pill text-white px-4">قراءة المزيد </a></p>
+
+                        <br />
+
+                        <h3 class="footer-heading mb-4 text-white">ملحوظه هامه </h3>
+
+                        <p>
+                            برجاء العلم أن موقع " أعطني فرصه " هو موقع للإعلان عن الوظائف وليس شركة توظيف عند التقديم على الوظائف يتم إرسال بياناتك للشركات وسيقومون بـ التواصل معك .
+                        </p>
+
+
+                        <!--------------ايقونات---------------------->
+                        <br />
+                        <br />
+
+                        <p>
+
+                            <a href="https://www.facebook.com/" target="_blank" class="pb-2 pr-0 pl-0"><span class="icon-facebook"></span></a>
+                            <a href="https://twitter.com/" target="_blank" class="p-2"><span class="icon-twitter"></span></a>
+                            <a href="https://www.instagram.com/" target="_blank" class="p-2"><span class="icon-instagram"></span></a>
+                            <a href="https://www.youtube.com/" target="_blank" class="p-2"><span class="icon-youtube"></span></a>
+
+                        </p>
+
+                        <!------------------------------------>
+
+                    </div>
+
+                    <div class="col-md-8">
+
+                        <div class="row">
+
+                            <div class="col-md-4">
+
+                                <h3 class="footer-heading mb-4 text-white">القائمة السريعة</h3>
+
+                                <ul class="list-unstyled">
+
+                                    <li><a href="~/Account/Login">تسجيل الدخول </a></li>
+                                    <li><a href="~/ResearcherProfiles/Create">سجل نفسك كباحث عن عمل</a></li>
+                                    <li><a href="~/PublisherProfiles/Create">سجل نفسك كمسئول توظيف</a></li>
+
+                                    <!--مكان الوظائف ف الموقع-->
+                                    <li><a href="#">تصفح الوظائف</a></li>
+                                    <!--مكان البحث ف الموقع-->
+                                    <li><a href="#">عايز شغل بجد</a></li>
+
+                                    <!-- مكان الوظائف الجديده ف الموقع -->
+                                    <li><a href="#">وظائف جديده</a></li>
+
+                                    <!-- مكان الوظائف المميزه ف الموقع -->
+                                    <li><a href="#">وظائف مميزه</a></li>
+
+                                    <!-- مكان   عن الموقع -->
+                                    <li><a href="#">عن الموقع</a></li>
+
+                                    <!-- وظيفة   أحلامك ف الموقع -->
+                                    <li><a href="#">وظيفة أحلامك </a></li>
+
+                                    <!-- لماذا   اخرتناك ف الموقع -->
+                                    <li><a href="#">لماذا أخترتنا</a></li>
+
+                                    <!--   أكبر شركات مصر تستخدم موقعنا -->
+                                    <li><a href="#">أكبر شركات مصر تستخدم موقعنا</a></li>
+
+
+                                </ul>
+
+                            </div>
+
+                            @*<div class="col-md-6">
+
+                                    <h3 class="footer-heading mb-4 text-white">القائمة السريعة</h3>
+
+                                    <ul class="list-unstyled">
+
+                                    <li><a href="#">من نحن </a></li>
+                                    <li><a href="#">تواصل معنا</a></li>
+                                    <li><a href="#">أسئلة شائعه</a></li>
+
+                                    </ul>
+
+                                </div>*@
+                           
+                            
+                                    <div class="col-md-4">
+
+                                        <h3 class="footer-heading mb-4 text-white">وظائف حسب المجال</h3>
+
+                                        <ul class="list-unstyled  ">
+
+                                            <li><a href="#">وظائف أعمال إدارية</a></li>
+                                            <li><a href="#">وظائف سياحة وضيافة</a></li>
+                                            <li><a href="#">وظائف حرف</a></li>
+                                            <li><a href="#">وظائف تكنولوجيا معلومات وإتصالات </a></li>
+                                            <li><a href="#">وظائف تربية وتعليم</a></li>
+                                            <li><a href="#">وظائف تسويق ومبيعات وعلاقات عامة</a></li>
+                                            <li><a href="#">وظائف التشيد والبناء</a></li>
+                                            <li><a href="#">وظائف صناعة</a></li>
+                                        </ul>
+
+                                    </div>
+                                    <div class="col-md-4">
+                                        <br />
+                                        <br />
+                                        <ul class="list-unstyled ">
+                                            <li><a href="#">وظائف عمارة وهندسة</a></li>
+                                            <li><a href="#">وظائف في كل المجالات</a></li>
+                                            <li><a href="#">وظائف مالية وقانونية</a></li>
+                                            <li><a href="#">وظائف خدمات</a></li>
+                                            <li><a href="#">وظائف نقل ومواصلات</a></li>
+                                            <li><a href="#">وظائف طب وصيدلة</a></li>
+                                            <li><a href="#">وظائف وزارة التضامن الأجتماعي</a></li>
+                                        </ul>
+
+                                    </div>
+                                
+                           
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="row pt-5 mt-5 text-center">
+
+                    <div class="col-md-12">
+
+                        <p>
+
+
+                            &copy; جميع الحقوق محفوظه لشركتنا  سنة 2019
+
+                        </p>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </footer>
+
+        <!--=========End footer============= -->
+
+
+    </div>
+
+
+    <script src="~/Scripts/jquery.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <!--قبل ما وسم الـ جسم يتقفل-->
+    @RenderSection("scripts", required: false)
+
+    <script src="~/Content/js/jquery-3.3.1.min.js"></script>
+    <script src="~/Content/js/jquery-migrate-3.0.1.min.js"></script>
+
+    <script src="~/Content/js/jquery-ui.js"></script>
+    <script src="~/Content/js/popper.min.js"></script>
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <script src="~/Content/js/owl.carousel.min.js"></script>
+    <script src="~/Content/js/jquery.stellar.min.js"></script>
+    <script src="~/Content/js/jquery.countdown.min.js"></script>
+    <script src="~/Content/js/jquery.magnific-popup.min.js"></script>
+
+    <script src="~/Content/js/bootstrap-datepicker.min.js"></script>
+    <script src="~/Content/js/aos.js"></script>
+
+    <script src="~/Content/js/mediaelement-and-player.min.js"></script>
+
+    <script src="~/Content/js/main.js"></script>
+
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var mediaElements = document.querySelectorAll('video, audio'), total = mediaElements.length;
+
+            for (var i = 0; i < total; i++) {
+                new MediaElementPlayer(mediaElements[i], {
+                    pluginPath: 'https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/',
+                    shimScriptAccess: 'always',
+                    success: function () {
+                        var target = document.body.querySelectorAll('.player'), targetTotal = target.length;
+                        for (var j = 0; j < targetTotal; j++) {
+                            target[j].style.visibility = 'visible';
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+
+    <script>
+        // This example displays an address form, using the autocomplete feature
+        // of the Google Places API to help users fill in the information.
+
+        // This example requires the Places library. Include the libraries=places
+        // parameter when you first load the API. For example:
+        // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
+
+        var placeSearch, autocomplete;
+        var componentForm = {
+            street_number: 'short_name',
+            route: 'long_name',
+            locality: 'long_name',
+            administrative_area_level_1: 'short_name',
+            country: 'long_name',
+            postal_code: 'short_name'
+        };
+
+        function initAutocomplete() {
+            // Create the autocomplete object, restricting the search to geographical
+            // location types.
+            autocomplete = new google.maps.places.Autocomplete(
+                                /** type {!HTMLInputElement} */(document.getElementById('autocomplete')),
+                { types: ['geocode'] });
+
+            // When the user selects an address from the dropdown, populate the address
+            // fields in the form.
+            autocomplete.addListener('place_changed', fillInAddress);
+        }
+
+        function fillInAddress() {
+            // Get the place details from the autocomplete object.
+            var place = autocomplete.getPlace();
+
+            for (var component in componentForm) {
+                document.getElementById(component).value = '';
+                document.getElementById(component).disabled = false;
+            }
+
+            // Get each component of the address from the place details
+            // and fill the corresponding field on the form.
+            for (var i = 0; i < place.address_components.length; i++) {
+                var addressType = place.address_components[i].types[0];
+                if (componentForm[addressType]) {
+                    var val = place.address_components[i][componentForm[addressType]];
+                    document.getElementById(addressType).value = val;
+                }
+            }
+        }
+
+        // Bias the autocomplete object to the user's geographical location,
+        // as supplied by the browser's 'navigator.geolocation' object.
+        function geolocate() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function (position) {
+                    var geolocation = {
+                        lat: position.coords.latitude,
+                        lng: position.coords.longitude
+                    };
+                    var circle = new google.maps.Circle({
+                        center: geolocation,
+                        radius: position.coords.accuracy
+                    });
+                    autocomplete.setBounds(circle.getBounds());
+                });
+            }
+        }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&libraries=places&callback=initAutocomplete"
+            async defer>
+    </script>
+
+  
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

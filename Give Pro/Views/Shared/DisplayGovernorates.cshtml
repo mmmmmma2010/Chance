@@ -1,0 +1,9 @@
+﻿@model Give_Pro.Models.Governorates
+<option value="">-- اختر المحافظه --</option>
+@if (ViewBag.GovernoratesLists != null)
+{
+    foreach(var item in ViewBag.GovernoratesLists)
+    {
+        <option value="@item.Value">@item.Text</option>
+    }
+}

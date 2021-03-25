@@ -1,0 +1,27 @@
+﻿@model Give_Pro.Models.AdvantagesWork
+
+@{
+    ViewBag.Title = "التفاصيل";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>التفاصيل</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AdvantagesWorkName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdvantagesWorkName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("تعديل", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("العوده إلي القائمه", "Index")
+</p>
+

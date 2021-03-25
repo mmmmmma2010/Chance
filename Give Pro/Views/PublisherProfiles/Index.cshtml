@@ -1,0 +1,154 @@
+﻿@model IEnumerable<Give_Pro.Models.PublisherProfile>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cities.CitiesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CompanyActivity.CompanyActivityName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Countries.CountriesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Governorates.GovernoratesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StaffSize.StaffSizeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Timeswork.TimesworkName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.UserType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumberCard)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateEnd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateBirth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumberPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AddressDetails)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ComRegistrationNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LegalPaper)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WebSite)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GroundNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CompLogo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cities.CitiesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompanyActivity.CompanyActivityName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Countries.CountriesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Governorates.GovernoratesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StaffSize.StaffSizeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Timeswork.TimesworkName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.UserType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumberCard)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateEnd)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateBirth)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumberPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AddressDetails)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompanyName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ComRegistrationNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LegalPaper)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WebSite)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GroundNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompLogo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

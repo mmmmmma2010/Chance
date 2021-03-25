@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Give_Pro.Models.AdvantagesWork>
+
+@{
+    ViewBag.Title = "قائمة مميزات العمل";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>قائمة مميزات العمل</h2>
+
+<p>
+    @Html.ActionLink("إنشاء جديد", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AdvantagesWorkName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AdvantagesWorkName)
+        </td>
+        <td>
+            @Html.ActionLink("تعديل", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("تفاصيل", "Details", new { id=item.Id }) |
+            @Html.ActionLink("حذف", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+
